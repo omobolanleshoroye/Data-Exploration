@@ -1,5 +1,5 @@
 -- Data exploration in SQL using Covid-19 Dataset
--- Select data that we are going to be using
+-- Select the data that we are going to be using
 -- covid_deaths table
 
 select location, date, total_cases, new_cases, total_deaths, population
